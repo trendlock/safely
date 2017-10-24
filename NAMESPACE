@@ -2,6 +2,5 @@
 
 export(pause)
 export(safe_GET)
-export(safe_bucketlist)
 export(safe_html)
 export(safe_read_html)
